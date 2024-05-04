@@ -9,7 +9,7 @@ Afin de rassembler nos artefacts architecturaux au même endroit, nous avons cr�
 ## Architecture historique
 - Diagrammes C4 de niveau 1 et 2
 ## Documentation en attente de signature
-- Déclaration de Travail d’Architecture
-- Spécification des Conditions requises pour l’Architecture
-- Contrat d’Architecture avec le Design et le Développement
-- Contrat d’Architecture avec les Utilisateurs Business
+[- Déclaration de travail d’architecture](https://github.com/MickaelDP/Conception-d-architecture-de-soutien-au-developpement/blob/main/Artefacts/Architecture/Statement%20of%20Architecture%20Work/D%C3%A9clarationDeTravailD-Architecture.pdf) \
+[- Spécification des conditions requises pour l’architecture](https://github.com/MickaelDP/Conception-d-architecture-de-soutien-au-developpement/blob/main/Artefacts/Architecture/Architecture%20Requirements%20Specficication/Sp%C3%A9cificationDesConditionsRequisesPourLArchtecture.pdf) \
+[- Contrat de conception et de développement de l'architecture](https://github.com/MickaelDP/Conception-d-architecture-de-soutien-au-developpement/blob/main/Artefacts/Architecture/Architecture%20Contract%20Development/ContratDeConceptionEtDeDeveloppementDeLArchitecture.pdf) \
+[- Contrat d’architecture des utilisateurs business](https://github.com/MickaelDP/Conception-d-architecture-de-soutien-au-developpement/blob/main/Artefacts/Architecture/Architecture%20Contract%20with%20Business/ContratDArchitectureDesUtilisateursBusiness.pdf) 
